@@ -1,0 +1,26 @@
+{
+  "name": "printing-css-test",
+  "version": "1.0.0",
+  "description": "印刷しようとするとデザインが変わるやつ",
+  "main": "",
+  "dependencies": {
+    "nuxt": "^2.8.1",
+    "qrcode": "^1.3.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nuxt dev",
+	"generate": "nuxt generate",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macrat/printing-css-test.git"
+  },
+  "author": "MacRat <m@crat.jp> (https://blanktar.jp)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/macrat/printing-css-test/issues"
+  },
+  "homepage": "https://github.com/macrat/printing-css-test#readme"
+}
