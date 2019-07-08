@@ -60,13 +60,14 @@ main p {
 	#header--site-name {
 		position: absolute;
 		width: 100%;
+		position: absolute;
+		top: 0;
 	}
 	#header--site-name text {
 		font-size: 3.5cm;
 		text-transform: capitalize;
 		font-variant: small-caps;
-		position: absolute;
-		bottom: -6mm;
+		font-family: "impact", fantacy, sans-serif;
 
 		background-color: none;
 	}
